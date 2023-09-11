@@ -18,7 +18,7 @@ ls
 
 python OR4NDOM.py
 
-<h1 align="center">INSTALLATION 1.3</h1>
+<h1 align="center">WASIM FIRE UPDATE </h1>
 
 <p align="left"> <img src="https://github.com/wasimmoulik008/wasimmoulik008/blob/main/Screenshot_2023-09-11-09-04-42-196_com.termux.jpg" alt="wasimmoulik008" /> </p>
 <h1 align="center">INSTALLATION 1.3</h1>
