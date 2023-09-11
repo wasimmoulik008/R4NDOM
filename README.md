@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimmoulik008&label=Profile%20views&color=0e75b6&style=flat" alt="wasimmoulik008" /> </p>
 <h1 align="center">FREE FIRE PUBG ID CLONE FREE RANDOM</h1>
-
+<img align="right" alt="coding" width="400" src="https://github.com/wasimmoulik008/wasimmoulik008/blob/main/Screenshot_2023-09-11-09-04-42-196_com.termux.jpg">
 <h1 align="center">INSTALLATION 1.1</h1>
 rm -rf R4NDOM
 
