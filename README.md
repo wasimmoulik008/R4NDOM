@@ -8,7 +8,7 @@ git clone https://github.com/wasimmoulik008/R4NDOM
 
 ls
 
-python OR4NDOM.py
+python OR4NDOM.py / RANDOM.py
 
 
 
