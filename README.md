@@ -32,6 +32,25 @@ ls
 
 RANDOM.py
 
+<h1 align="center">💠UPDATE  VINSON 1.4 💠</h1>
+<h1 align="center">☹️Sorry kolizar brathor some id lock ☹️</h1>
+
+
+<p align="left"> <img src="https://github.com/wasimmoulik008/R4NDOM/blob/main/IMG_20230914_145851.jpg" /> </p>
+<h1 align="center">💠INSTALLATION 1.4💠</h1>
+
+rm -rf R4NDOM
+
+ls
+
+git clone https://github.com/wasimmoulik008/R4NDOM
+
+ls
+
+python BDMC.py 
+
+
+
 
 <h1 align="center">WHO TO LOGIN</h1>
 LOGIN WITH FB LITE +APP & CHANGE NUMBER+PASS 
